@@ -1,0 +1,16 @@
+Initial
+--------
+git init
+git add .
+git config --global user.email "manikewell@gmail.com"
+git commit -m "first commit"
+git remote add origin https://github.com/manikewell/property-management.git
+git remote set-url origin https://manikewell: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@github.com/manikewell/property-management.git
+git push --set-upstream origin master
+
+Updates
+-------
+git status
+git add .
+git commit -m "added new files"
+git push

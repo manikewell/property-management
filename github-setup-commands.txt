@@ -9,7 +9,8 @@ git remote set-url origin https://manikewell:ghp_qPufE3oHhTSFjW527LQrIvbHRDjJy64
 git push --set-upstream origin master
 
 Updates
--------
+--------
+git pull
 git status
 git add .
 git commit -m "added new files"
